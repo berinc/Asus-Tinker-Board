@@ -1,5 +1,6 @@
 # Asus-Tinker-Board
-Asus tinker board setup and guide's
+Asus tinker board setup and guide's:
+
 As I slowly build up this guide, I aim to produce a basic users guide to the tinker board helping people whom are interested in the tinker board have a more level or down hill experience in fulfilling there desires of a fully working and stable system.
 
 First and foremost, some basics to know and understand about the tinker board. This will save you many hours of research and anger. Great resource for information https://tinkerboarding.co.uk/
